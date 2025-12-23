@@ -49,12 +49,11 @@ h2{
 }
 
 .index_produto_preço{
-    /*color: rgb(87, 87, 87);*/
-    color: black;
+    color: rgb(87, 87, 87);
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     font-size: 18px;
-    /*text-decoration: line-through;*/
+    text-decoration: line-through;
 }
 
 .index_produto_preço_off{
@@ -62,7 +61,6 @@ h2{
     font-family: "Rubik", sans-serif;
     font-weight: 400;
     font-size: 18px;
-    display: none;
 }
 
 .index_produto_link{
